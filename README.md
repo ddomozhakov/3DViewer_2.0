@@ -2,9 +2,15 @@
 
 Visualization of the wireframe of three-dimensional models stored in a *.obj file
 
+Model-view-controller (MVC) pattern implemented
+
+Implemented design patterns: Memento, Command, Factory.
+
+<img src="materials/preview.png" alt="preview" width="650">
+
 *** Installation *** 
 
-make install
+ - make install
 
 The default installation folder is Desktop
  
@@ -16,7 +22,7 @@ You can also save a screenshot of the image or record a GIF animation.
 
 *** Deletion ***
 
-make uninstall
+ - make uninstall
 
 *** Requirements ***
 
