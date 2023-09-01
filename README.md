@@ -26,4 +26,4 @@ You can also save a screenshot of the image or record a GIF animation.
 
 *** Requirements ***
 
- - C++ 17, Qt6, CMake;
+ - C++ 17, Qt6, QMake;
