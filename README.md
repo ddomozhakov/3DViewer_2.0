@@ -6,6 +6,9 @@ Model-view-controller (MVC) pattern implemented
 
 Implemented design patterns: Memento, Command, Factory.
 
+The program may not display correctly on Linux systems with interface scaling enabled. 
+Set the interface scale to 100%. 
+
 <img src="materials/preview.png" alt="preview" width="650">
 
 *** Installation *** 
@@ -27,3 +30,4 @@ You can also save a screenshot of the image or record a GIF animation.
 *** Requirements ***
 
  - C++ 17, Qt6, QMake;
+ - 
